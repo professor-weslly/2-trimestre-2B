@@ -33,3 +33,14 @@ body{
     display: block;
     text-decoration: none;
 }
+
+
+
+/* inserir na classe container
+display: grid;
+grid-template-columns: 50% 50%;
+
+para isso add uma div no html
+
+*/
+
