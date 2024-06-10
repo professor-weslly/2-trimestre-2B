@@ -42,5 +42,12 @@ grid-template-columns: 50% 50%;
 
 para isso add uma div no html
 
+após configurar o html inserir a classe do botão secundário
+
+.botao_secundario {
+    background-color: transparent;
+    border: 2px solid var(--branco-principal)
+}
+
 */
 
