@@ -86,7 +86,7 @@ body{
 .descricao__texto {
     color: var(--cinza-secundario);
 }
-
+/* próxima aula */
 .secundario__botao {
     display: inline-block;
     margin-top: 1em;
